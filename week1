@@ -1,0 +1,4 @@
+innum=int(input("Enter Number"))
+print(innum)
+
+
