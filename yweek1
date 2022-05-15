@@ -1,0 +1,2 @@
+xx=int(inpu("enter your number"))
+print(xx)
