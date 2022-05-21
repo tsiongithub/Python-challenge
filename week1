@@ -1,4 +1,4 @@
-innum=int(input("Enter Number"))
+innum = (input("Enter what you want to print."))
 print(innum)
 
 
