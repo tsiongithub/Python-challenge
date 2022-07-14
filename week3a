@@ -1,0 +1,5 @@
+x: str = str(input('Enter the text'))
+if (x.isupper() ==False ):
+    print(x.upper())
+else:
+    print(x)
