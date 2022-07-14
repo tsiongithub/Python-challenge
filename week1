@@ -1,4 +1,4 @@
-innum = (input("Enter what you want to print."))
-print(innum)
-
-
+name = input("Enter your name: ")
+Father_name = input("Enter your father name: ")
+age = input("Enter your age: ")
+print("Hello " +name+ " " +Father_name+ " You are " +age+ ".")
