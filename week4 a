@@ -1,0 +1,13 @@
+
+x: int = 1
+z: int=0
+y: int=0
+
+if not  x % 2 == 0:
+ while x <= 49:
+        y=x+z
+        z = y
+        x=x+2
+
+print(y)
+
