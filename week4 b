@@ -1,0 +1,3 @@
+x=int(input("Height"))
+y=int(input("Base"))
+print("Triangle area" , x*y/2)
