@@ -1,0 +1,9 @@
+word = input("Enter the words to reorder in alphabetic order \n").casefold()
+word_list = word.split()
+
+
+word_list.sort()
+
+print('the correct order is \n')
+for i in word_list:
+    print(i)
