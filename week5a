@@ -1,0 +1,9 @@
+s: str = input("here")
+w=str(s.casefold())
+
+ss: str = w[::-1]
+
+if ss==w:
+    print("It is palindrome")
+else:
+    print("it is not palindrome")
