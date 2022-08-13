@@ -1,0 +1,6 @@
+a = input("Enter the string:")
+rec = (a[::-1])
+if rev == a:
+print("palindrome")
+else
+print("not")
